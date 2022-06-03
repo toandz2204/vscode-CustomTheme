@@ -1,0 +1,27 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#282A37",
+        "sideBar.background": "#282A37",
+        "editor.background": "#282A37",
+        "panel.background": "#282A37",
+        "panelTitle.activeBorder": "#97e1f1",
+        "sideBar.border": "#282A37",
+        "sideBarSectionHeader.border": "#282A37",
+        "activityBar.activeBorder": "#97e1f1",
+        "terminal.foreground": "#97e1f1",
+        "terminal.background": "#282A37"
+    },
+    "vscode_custom_css.imports": [
+        "file:C:/Users/D2T/.vscode/extensions/vscodeCustom/customColor.css"
+    ],
+    "editor.fontFamily": "Roboto Mono",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.lineHeight": 30,
+    "editor.fontSize": 16,
+    "editor.letterSpacing": 0.5,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "workbench.colorTheme": "Dracula Soft"
+}

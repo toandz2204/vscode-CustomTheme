@@ -13,17 +13,18 @@
     #ffb4dc,
     #fc6c8f,
     #ffb86c
+
   );
   box-shadow:
-    0 0 7px #6a5af9,
+    0 0 7px #ff2ced,
     0 0 10px #ff2ced,
-    0 0 21px #ffb4dc,
-    0 0 42px #fc6c8f,
-    0 0 82px #ffb86c,
-    0 0 92px #0fa,
-    0 0 102px #0fa,
-    0 0 151px #0fa,
-    0 0 201px #0fa;
+    0 0 21px #ff2ced,
+    0 0 42px #ff2ced,
+    0 0 82px #ff2ced,
+    0 0 92px #ff2ced,
+    0 0 102px #ff2ced,
+    0 0 151px #ff2ced,
+    0 0 201px #ff2ced;
 }
 
 /* Tab gradient */
@@ -38,30 +39,14 @@
   background-size: 400% 400%;
   background-image: linear-gradient(
     -45deg,
-    /* #fc6c8f,
+    #fc6c8f,
     #ff2ced,
     #ffb86c,
     #2cccff,
     #20e3b2,
     #ffcc70,
     #c850c0,
-    #4158d0 */
-
-    #ff2cdf,
-    #0014ff,
-    #00e1fd,
-    #00ff5b,
-    #00e5ff,
-    #1200ff,
-    #ffe53b,
-    #ff2525,
-    #ffe53b,
-    #ff005b,
-    #ffe53b,
-    #00ffff,
-    #ff0a6c,
-    #2d27ff
-
+    #4158d0
   );
   animation: gradient 5s ease alternate infinite;
   height: 3px;
